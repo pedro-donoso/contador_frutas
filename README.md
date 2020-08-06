@@ -1,2 +1,2 @@
-# contadorFrutas-master
+# Proyecto Contador de Frutas
  ejemplo_contador
